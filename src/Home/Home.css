@@ -1,0 +1,23 @@
+
+.main-heading{
+    text-align: center;
+
+}
+.I18n-container {
+    margin: 50px auto;
+    width: fit-content;
+    background-color: rgb(168, 244, 93);
+    padding: 10px 70px;
+    border-radius: 20px;
+    box-shadow: 2px 1px 3px 2px rgb(142, 245, 133);
+    text-align: center;
+
+
+}
+.dropdown{
+    padding: 10px;
+    background-color: rgb(43, 41, 41);
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
